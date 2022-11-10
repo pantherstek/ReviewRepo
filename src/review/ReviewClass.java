@@ -7,4 +7,8 @@ public class ReviewClass {
 
 	}
 
+	
+	public void test() {
+		System.out.println("This method is on Review Session Branch");
+	}
 }
